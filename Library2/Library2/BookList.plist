@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Books</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>A Brief History of Time</string>
+			<key>Author</key>
+			<string>Stephen Hawking</string>
+			<key>PageCount</key>
+			<integer>225</integer>
+			<key>CurrentPage</key>
+			<integer>0</integer>
+			<key>Cover</key>
+			<string>https://m.media-amazon.com/images/I/61cQQST7o9L.jpg</string>
+			<key>Online</key>
+			<string>https://www.amazon.com/dp/B004WY3D0O/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Romance of the Three Kingdoms Volume 1</string>
+			<key>Author</key>
+			<string>Luo Guanzhong</string>
+			<key>PageCount</key>
+			<integer>711</integer>
+			<key>CurrentPage</key>
+			<integer>0</integer>
+			<key>Cover</key>
+			<string>https://m.media-amazon.com/images/I/51FhLgSxJuL.jpg</string>
+			<key>Online</key>
+			<string>https://www.amazon.com/dp/B006T3MFHI/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition</string>
+			<key>Author</key>
+			<string>Gayle Laakmann McDowell</string>
+			<key>PageCount</key>
+			<integer>687</integer>
+			<key>CurrentPage</key>
+			<integer>0</integer>
+			<key>Cover</key>
+			<string>https://images-na.ssl-images-amazon.com/images/I/51l5XzLln%2BL._SX348_BO1,204,203,200_.jpg</string>
+			<key>Online</key>
+			<string>https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?dchild=1&amp;keywords=cracking+the+coding+interview&amp;qid=1587187455&amp;s=books&amp;sr=1-2</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Fire &amp; Blood: 300 Years Before A Game of Thrones (A Targaryen History)</string>
+			<key>Author</key>
+			<string>George R. R. Martin</string>
+			<key>PageCount</key>
+			<integer>736</integer>
+			<key>CurrentPage</key>
+			<integer>0</integer>
+			<key>Cover</key>
+			<string>https://images-na.ssl-images-amazon.com/images/I/51sw9sAJJ3L._SX327_BO1,204,203,200_.jpg</string>
+			<key>Online</key>
+			<string>https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History/dp/152479628X/ref=sr_1_6?dchild=1&amp;keywords=A+Game+of+Thrones&amp;qid=1587187683&amp;s=books&amp;sr=1-6</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>The First Emperor of China</string>
+			<key>Author</key>
+			<string>Jonathan Clements </string>
+			<key>PageCount</key>
+			<integer>224</integer>
+			<key>CurrentPage</key>
+			<integer>0</integer>
+			<key>Cover</key>
+			<string>https://images-na.ssl-images-amazon.com/images/I/51VYYR386PL._SX330_BO1,204,203,200_.jpg</string>
+			<key>Online</key>
+			<string>https://www.amazon.com/First-Emperor-China-Jonathan-Clements/dp/0750939591/ref=sr_1_1?keywords=the+first+emperor+of+china&amp;qid=1587187826&amp;s=books&amp;sr=1-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
